@@ -37,13 +37,13 @@ things that happened-before reasoning is good for:
 * debugging (possible cause of a bug)
 * desiging systems
 
----
+***
 
 #### Lamport diagrams / SPACETIME diagrams
 
 **The definition of $\to$**
 
-Given two events A and B, we say $A \to B$ , means A happened before B
+Given two events A and B, we say $A \to B$ , means A happened before B $$A \to B$$​
 
 if any of the following is true (smallest relation):
 
