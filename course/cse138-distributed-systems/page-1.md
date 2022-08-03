@@ -2,7 +2,7 @@
 
 Distributed System = partitial failure + unbounded lantency
 
-Time and clocks
+### Time and clocks
 
 What are clocks for?
 
@@ -37,7 +37,7 @@ things that happened-before reasoning is good for:
 * debugging (possible cause of a bug)
 * desiging systems
 
-***
+---
 
 #### Lamport diagrams / SPACETIME diagrams
 
