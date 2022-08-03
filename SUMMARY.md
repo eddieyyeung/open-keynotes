@@ -2,6 +2,11 @@
 
 * [🍀 人生若只如初见](README.md)
 
+## Course
+
+* [CSE138 (Distributed Systems)](course/cse138-distributed-systems/README.md)
+  * [Page 1](course/cse138-distributed-systems/page-1.md)
+
 ## 论文阅读 <a href="#jian-chi-xue-xi-cheng-chang" id="jian-chi-xue-xi-cheng-chang"></a>
 
 * [Monarch: Google's Planet-Scale In-Momery Time Series Database](jian-chi-xue-xi-cheng-chang/monarch-googles-planet-scale-in-momery-time-series-database.md)
